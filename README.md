@@ -2,9 +2,9 @@
 
 ## Projects
 
-- [JIRA with AI support](https://marketplace.atlassian.com/apps/1229460/jai-jira-ai-autocomplete)
-- [Notes with GPT](https://articles.interestingprojects.net)
-- [BUI](https://bui.interestingprojects.net/)
+[Check my projects here](https://szymon.korytnicki.pl/?page_id=105)
+
+[Challenge me](https://forecaster.interestingprojects.net/u/skorytnicki/challenge)
 
 ## Contact
 
