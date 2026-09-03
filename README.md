@@ -8,4 +8,4 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/skorytnicki)
+[LinkedIn](https://www.linkedin.com/skorytnicki)
